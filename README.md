@@ -1,6 +1,6 @@
 ## Clean Architecture
 
-This is demo application to demonstrate the structure of a spring
+This is a demo application to demonstrate the structure of a spring
 application using the [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
  model.
  
